@@ -2,7 +2,7 @@
 
 A curated collection of foundational software applications built using C++ (Standard ISO/IEC 14882). This repository demonstrates my core competency in algorithms, memory management, compile-time type safety, and terminal-based user interfaces.
 
-## 🛠️ Included Applications & Technical Highlights
+##  Included Applications & Technical Highlights
 
 ### 1. Terminal-Based Tic-Tac-Toe Game
 * **Description:** A classic, interactive 2-player game played entirely within the command-line interface.
@@ -27,7 +27,7 @@ A curated collection of foundational software applications built using C++ (Stan
 ### 6. An Adventure Game
 * **Description:** A console based game that understands inputs and story changes according to choices and leads to ultimate console based fight.
 * **
-## 🚀 Key Takeaways
+##  Key Takeaways
 Through developing this suite, I successfully mastered:
 * Structured programming and code clean-up.
 * Managing user inputs and preventing terminal crashes.

@@ -188,6 +188,13 @@ int main()
 
     std::cout << "Enter Amount : ";
     std::cin >> amount;
+    while (std::cin.fail())
+            {
+                std::cin.clear();
+                std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                cout << "Enter Amount : ";
+                cin >> amount;
+            }
 
     while (find)
     {

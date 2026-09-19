@@ -59,7 +59,7 @@ The project is an experiment in turning basic C++ concepts into an small game.
 - `srand()`
 - `time()`
 
-[View Dragon Castle Game →](./Dragon Cave Game)
+[View Dragon Castle Game →](./DragonCaveGame)
 
 
 This project was an early step toward thinking about programming in terms of **game systems and player interaction**.

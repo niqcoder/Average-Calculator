@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/status-learning-yellow)
 ![Platform](https://img.shields.io/badge/platform-console-lightgrey)
 
+
 A collection of small C++ projects built while developing my programming fundamentals and preparing for a path into game development.
 
 I am a self-taught programmer from Pakistan, currently building my foundation through practical projects rather than learning concepts in isolation. Each project in this repository focuses on a different set of programming concepts, while gradually increasing in complexity.
@@ -18,17 +19,48 @@ My long-term goal is to apply these fundamentals to **game development**, with *
 
 ### 🐉 Dragon Cave — Text RPG
 
+A text-based adventure game combining story, player choices, puzzles, and combat.
+
 A branching text-based adventure game featuring exploration, a puzzle-based gate, and turn-based combat.
 
 The combat system includes HP tracking, multiple attack types, and special-move cooldowns.
 
-**Concepts practiced:**
+The project is an experiment in turning basic C++ concepts into an small game.
+
+**Current features:**
+
+- Story-driven introduction
+- Player choices
+- Number guessing puzzle
+- Random puzzle generation
+- Basic combat system
+- Player and enemy health
+- Multiple attacks
+- Special attack mechanics
+- Cooldown system
+- Different paths and outcomes
+
+**What I practiced:**
+
 - Functions
+- Strings
+- Loops
 - Nested control flow
 - Game-state management
 - Variables and state tracking
 - Turn-based logic
 - Cooldown systems
+- Conditional statements
+- Arrays
+- Random number generation
+- Game state
+- Combat logic
+- `rand()`
+- `srand()`
+- `time()`
+
+[View Dragon Castle Game →](./Dragon%20Castle%20Game)
+
 
 This project was an early step toward thinking about programming in terms of **game systems and player interaction**.
 
@@ -119,12 +151,52 @@ The projects also show how my focus has gradually shifted from basic calculation
 
 I am building these projects independently as part of my self-directed learning.
 
-I do not consider the current code to be the final version of my programming ability. As I learn more about software design and development, I expect to revisit older projects, identify weaknesses, and improve them.
+# What's Next?
 
-That progression is one of the main reasons I keep these projects in a single repository: it provides a record of what I have built, what I have learned, and how my approach to programming develops over time.
+The projects in this repository will become more advanced as I continue learning C++.
+
+Some of the areas I plan to explore include:
+
+- Object-oriented programming
+- Classes and objects
+- File handling
+- Pointers
+- Dynamic memory
+- Data structures
+- More advanced algorithms
+- Larger applications
+- More complex games
+
+The goal is simple:
+
+**Keep learning. Keep building. Keep improving.**
 
 ---
 
+# Tools
+
+- C++
+- Git
+- GitHub
+
+---
+# About This Repository
+
+This repository is part of my journey into programming with C++.
+
+I am not trying to make every project perfect on the first attempt.
+
+I am trying to understand what I am writing, solve problems myself, learn from mistakes, and gradually write better code.
+
+Every project starts with a question:
+
+**"Can I build this?"**
+
+Then I build it and find out.
+
+---
 ## Build & Run
 
-The projects are intentionally lightweight and have no external dependencies.
+The projects are intentionally lightweight and have no external dependencies
+
+## The Journey Continues 🚀

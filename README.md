@@ -61,7 +61,7 @@ The project is an experiment in turning basic C++ concepts into an small game.
 
 This project was an early step toward thinking about programming in terms of **game systems and player interaction**.
 
-[View Dragon Castle Game →](./Dragon%20Cave%20Game)
+[View Dragon Cave Game →](./Dragon%20Cave%20Game)
 
 ---
 

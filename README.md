@@ -59,10 +59,9 @@ The project is an experiment in turning basic C++ concepts into an small game.
 - `srand()`
 - `time()`
 
-[View Dragon Castle Game →](./DragonCaveGame)
-
-
 This project was an early step toward thinking about programming in terms of **game systems and player interaction**.
+
+[View Dragon Castle Game →](./Dragon%20Cave%20Game)
 
 ---
 
@@ -82,6 +81,8 @@ The program searches the dataset for the selected currencies and performs the re
 
 This project helped me move from simple calculations toward working with structured data.
 
+[View currency-converter →](./currency-converter)
+
 ---
 
 ### 📏 Unit Converter
@@ -100,6 +101,7 @@ Each section uses its own conversion logic and validated input loop.
 
 This project placed particular emphasis on **reliable input handling**, ensuring that unexpected user input does not cause the program to behave incorrectly.
 
+[View unit-converter →](./unit-converter)
 ---
 
 ### ⭕ Tic-Tac-Toe
@@ -118,9 +120,10 @@ The program evaluates rows, columns, and diagonals to determine the outcome of e
 
 This project gave me practical experience translating a set of rules into an algorithm that continuously evaluates game state.
 
+[View tic-tac-toe →](./tic-tac-toe)
 ---
 
-### 📊 Grade Calculator
+### 📊 Average Calculator
 
 A program that calculates total marks and percentage averages across a user-defined number of subjects.
 
@@ -133,6 +136,7 @@ A program that calculates total marks and percentage averages across a user-defi
 
 Although simple, this project helped reinforce the fundamentals of handling collections of related data and validating user input.
 
+[View average-calculator →](./average-calculator)
 ---
 
 ## What These Projects Demonstrate

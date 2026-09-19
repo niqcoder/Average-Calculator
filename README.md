@@ -128,8 +128,3 @@ That progression is one of the main reasons I keep these projects in a single re
 ## Build & Run
 
 The projects are intentionally lightweight and have no external dependencies.
-
-Compile a project using:
-
-```bash
-g++ filename.cpp -o output
